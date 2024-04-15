@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Name=Click-Script
+Icon=utilities-terminal
+Exec=gnome-terminal -e "bash -c '/home/ettc/Desktop/ssd/camera_tools.sh;$SHELL'"
+Categories=Application;
+
+Name[en_US]=capture_image.desktop
+Name[zh_TW]=capture_image

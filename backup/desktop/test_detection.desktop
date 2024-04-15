@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Name=Click-Script
+Icon=utilities-terminal
+Exec=gnome-terminal -e "bash -c '/home/ettc/Desktop/ssd/test.sh;$SHELL'"
+Categories=Application;
+
+Name[en_US]=test_detection.desktop
+Name[zh_TW]=test_detection

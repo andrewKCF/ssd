@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Name=Click-Script
+Icon=utilities-terminal
+Exec=gnome-terminal -e "bash -c '/home/ettc/laucn_file/ros_start_ai_detection.sh;$SHELL'"
+Categories=Application;
+
+Name[en_US]=ros_detection_node.desktop
+Name[zh_TW]=ros_detection_node

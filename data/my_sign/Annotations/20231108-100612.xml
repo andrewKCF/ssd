@@ -1,0 +1,27 @@
+<annotation>
+    <filename>20231108-100612.jpg</filename>
+    <folder>my_sign</folder>
+    <source>
+        <database>my_sign</database>
+        <annotation>custom</annotation>
+        <image>custom</image>
+    </source>
+    <size>
+        <width>640</width>
+        <height>360</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>right</name>
+        <pose>unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>300</xmin>
+            <ymin>154</ymin>
+            <xmax>500</xmax>
+            <ymax>330</ymax>
+        </bndbox>
+    </object>
+</annotation>
